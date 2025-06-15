@@ -1,4 +1,3 @@
-import requests
 
 def buscar_cep(cep):
     url = f"https://brasilapi.com.br/api/cep/v1/{cep}"
